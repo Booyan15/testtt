@@ -119,7 +119,7 @@
   .icon1{
     width: 32px;
     height: max-content;
-    object-fit: contain;
+    object-fit: cover;
   }
 
   .container{
