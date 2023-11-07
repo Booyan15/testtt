@@ -112,7 +112,7 @@
   
   img{
     width: 100%;
-    display: block;
+    display: flex;
     object-fit: scale-down;
   }
 
