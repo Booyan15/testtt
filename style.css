@@ -117,7 +117,7 @@
   }
 
   .icon1{
-    width: 32px;
+    width: auto;
     height: max-content;
     object-fit: cover;
   }
