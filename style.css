@@ -112,13 +112,14 @@
   
   img{
     width: 100%;
-    display: grid;
-    object-fit: scale-down;
+    display: flex;
+
   }
 
   .icon1{
     width: 32px;
     height: max-content;
+    object-fit: contain;
   }
 
   .container{
